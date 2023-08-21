@@ -1,6 +1,7 @@
 //a random number generating game 
 //task2
 
+
 #include<bits/stdc++.h>
 int main() {
     
