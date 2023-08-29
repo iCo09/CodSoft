@@ -1,9 +1,11 @@
+//My CodSoft Task 3
+
 #include<bits/stdc++.h>
 class ToDoListManager {
 public:
     void addTask(const std::string &task) {
         tasks.push_back(task);
-        std::cout << "task added!" << std::endl;
+        std::cout << "Task added!" << std::endl;
     }
 
     void viewTasks() {
